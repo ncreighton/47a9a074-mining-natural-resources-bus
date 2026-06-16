@@ -1,2 +1,28 @@
-# 47a9a074-mining-natural-resources-bus
-Stop chasing data across spreadsheets, emails, and site reports. The Mining &amp; Natural Resources Business Dashboard and KPI Tracker turns scattered operational metrics into a single, real-time command center—so you can catch cost overruns and production dips before they hit your bottom line.  This Notion template consolidates every critical KPI—from
+# Mining & Natural Resources Business Dashboard and KPI Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNibJ126H7Eoe00gUcd0k0u)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNibJ126H7Eoe00gUcd0k0u)
+
